@@ -1,0 +1,54 @@
+#fom {
+	background-image: url(img/coat of arm.png);
+	background-position: 100px 0px;
+	background-attachment: fixed;
+	border: double gray 5px;
+	width: 60%;
+	border-radius: 5px;
+	margin: 90px auto;
+	padding: 70px;
+	text-align: left;
+	font-weight: normal;
+	letter-spacing: .1em;
+	margin-bottom: 1em; 
+	line-height: 125%;
+	text-decoration: none;
+}
+body {
+	background-image: #000033; 
+	border: 3px dotted #ffffff;
+	background-repeat: none;
+	text-align: center;
+}
+
+#sn, #fn, #mn, #pob, #eml, #ctry, #sta, #lg, #qlf, #crs, #sch, #gdr {
+	height: 25pt;
+	width: 97%;
+}
+#gend, #dte, #ms, #dob {
+	height: 25pt;
+	width: 97%;
+}
+#clr {
+	color: #ffccce;
+	background: #000000;
+	font-size: 20px;
+	height: 40px;
+	width: 85px;
+	border: solid #ffccce 5px;
+	border-radius: 40px;
+	margin: 30px auto;
+	position: relative;
+	}
+#snd {
+	color: #ffccce;
+	background: #000000;
+	font-size: 20px;
+	height: 40px;
+	width: 85px;
+	border: solid #ffccce 5px;
+	border-radius: 40px;
+	margin: 30px auto;
+	position: relative;
+	left: 650px; 
+	}
